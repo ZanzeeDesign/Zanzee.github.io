@@ -1,29 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ZanzeeDesign.github.io</id>
-    <title>Zanzee</title>
-    <updated>2019-05-26T05:41:59.066Z</updated>
+    <title>Zhang Zhe&apos;blog</title>
+    <updated>2019-05-26T11:42:42.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ZanzeeDesign.github.io"/>
     <link rel="self" href="https://ZanzeeDesign.github.io/atom.xml"/>
     <subtitle>走过许多弯路，也好过原地踏步</subtitle>
     <logo>https://ZanzeeDesign.github.io/images/avatar.png</logo>
     <icon>https://ZanzeeDesign.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Zanzee</rights>
-    <entry>
-        <title type="html"><![CDATA[阿是计分卡合法化]]></title>
-        <id>https://ZanzeeDesign.github.io/post/a-shi-ji-fen-qia-he-fa-hua</id>
-        <link href="https://ZanzeeDesign.github.io/post/a-shi-ji-fen-qia-he-fa-hua">
-        </link>
-        <updated>2019-05-26T05:30:02.000Z</updated>
-        <summary type="html"><![CDATA[<p>你好啊</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>你好啊</p>
-<!-- more --> 
-<h1 id="立早吉吉">立早吉吉</h1>
-<p>我希望改变</p>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2019, Zhang Zhe&apos;blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ZanzeeDesign.github.io/post/hello-gridea</id>
