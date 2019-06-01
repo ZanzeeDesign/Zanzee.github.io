@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ZanzeeDesign.github.io</id>
     <title>小慢小记</title>
-    <updated>2019-06-01T09:37:14.916Z</updated>
+    <updated>2019-06-01T09:38:01.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ZanzeeDesign.github.io"/>
     <link rel="self" href="https://ZanzeeDesign.github.io/atom.xml"/>
@@ -55,10 +55,8 @@
 iPhone家的官网导航，左上方的网站logo告诉用户正在访问iPhone家的服务，无论什么时候点这里都能回到首页，右边的mac字体成浅灰色显示，与其他同级元素有差别，下方icon形象显示mac的产品，告诉用户整个页面信息都是属于这个分类下，banner右下方显示新款按钮。清楚的解释了“我从哪里来？”、“我现在在哪里？”、“我能去哪里？”</p>
 <p>(2).深广度平衡。
 相较于鼠标不停的点击，眼睛在页面上扫视的成本要低很多，比起深层次的导航结构，广度导航更利于用户发现信息。但广度超出用户接受范围人们要阅读很多选项才能选择。</p>
-<p>(3).用户所需信息与商业推广信息平衡。
-智联的推广信息就特别多了 用户有时候都在网站上找不到输入框。</p>
-<p>(4).为重要功能和常用功能设置快捷入口。
-淘宝的购物车设置的快捷入口。</p>
+<p>(3).用户所需信息与商业推广信息平衡。</p>
+<p>(4).为重要功能和常用功能设置快捷入口。</p>
 <h3 id="8如何突出主要任务"><strong>8.如何突出主要任务？</strong></h3>
 <p>分解用户任务：首先要明确用户使用web产品时，要完成的任务有哪些，并详尽地分解出这些任务； 排列</p>
 <p>任务优先级：子任务所对应功能的优先级进行排列。 组织合并相关任务：需要将这些任务按一定的意义组织起来，便于用户理解和使用。</p>
